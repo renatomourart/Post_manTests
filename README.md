@@ -1,4 +1,3 @@
-# Post_manTests
 carteiro-teste-api
 API Coleção de Testes - Reqres (Postman)
 
