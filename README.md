@@ -2,9 +2,13 @@
 
 Esta coleção contém testes de API utilizando o Postman com foco em:
 
-- Listagem de usuários (GET)
-- Login com sucesso (POST)
-- Login com erro (POST)
+- Listar usuários (GET)
+- Criar usuário (POST)
+- Validar usuário (POST)
+- Deletar usuário (DELETE)
+- Login com sucesso  (POST)
+- Login com erro  (POST)
+- URL inválida (GET)
 
 ## Como usar
 
