@@ -1,15 +1,18 @@
-carteiro-teste-api
-API Coleção de Testes - Reqres (Postman)
+# Coleção de Testes API - Reqres (Postman)
 
-API Coleção de Testes - Reqres (Postman)
 Esta coleção contém testes de API utilizando o Postman com foco em:
 
-Listagem de usuários (GET)
-Login com sucesso (POST)
-Login com erro (POST)
-Como usar
-Importe o arquivo Testes-Reqres.postman_collection.jsonno Postman.
-Execute os testes no Collection Runner.
-Verifique os resultados dos testes automatizados.
-API utilizada
+- Listagem de usuários (GET)
+- Login com sucesso (POST)
+- Login com erro (POST)
+
+## Como usar
+
+1. Importe o arquivo `Testes-Reqres.postman_collection.json` no Postman.
+2. Execute os testes no Collection Runner.
+3. Verifique os resultados dos testes automatizados.
+
+## API utilizada
+
 https://reqres.in
+
